@@ -140,6 +140,7 @@ void CALLBACK TimerCallback(PVOID lpParam, BOOLEAN TimerOrWaitFired)
 
 int main()
 {
+	//--------------------------------
 	CTimerQueue TimerQueue;
 	HANDLE TheTimer;
 
